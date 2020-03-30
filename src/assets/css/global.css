@@ -30,6 +30,3 @@ body,
 .el-cascader-menu {
   height: 300px;
 }
-.el-cascader__dropdown{
-  top: 275px!important;
-}
